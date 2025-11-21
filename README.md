@@ -1,4 +1,4 @@
-Studi kasus pembuatan UI Swing yang responsif mengikuti ukuran jendela yang di-resize menggunakan MigLayout
+UI Swing responsif mengikuti ukuran jendela yang di-resize menggunakan MigLayout
 
 Compact View (≤577px)<br>
 <img width="500" height="767" alt="image" src="https://github.com/user-attachments/assets/d8b6b051-209c-4637-8374-6a0a2cfc05f2" />
