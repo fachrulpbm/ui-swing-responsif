@@ -1,5 +1,3 @@
-UI Swing responsif mengikuti ukuran jendela yang di-resize menggunakan MigLayout
-
 <b>Compact View</b> (≤576px)<br>
 <img width="500" height="767" alt="image" src="https://github.com/user-attachments/assets/d8b6b051-209c-4637-8374-6a0a2cfc05f2" />
 <br><br>
